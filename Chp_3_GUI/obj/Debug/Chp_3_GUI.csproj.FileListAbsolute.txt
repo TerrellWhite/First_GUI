@@ -1,0 +1,10 @@
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\bin\Debug\Chp_3_GUI.exe.config
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\bin\Debug\Chp_3_GUI.exe
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\bin\Debug\Chp_3_GUI.pdb
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\obj\Debug\Chp_3_GUI.csprojAssemblyReference.cache
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\obj\Debug\Chp_3_GUI.Form1.resources
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\obj\Debug\Chp_3_GUI.Properties.Resources.resources
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\obj\Debug\Chp_3_GUI.csproj.GenerateResource.cache
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\obj\Debug\Chp_3_GUI.csproj.CoreCompileInputs.cache
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\obj\Debug\Chp_3_GUI.exe
+c:\users\jusja\source\repos\Chp_3_GUI\Chp_3_GUI\obj\Debug\Chp_3_GUI.pdb
